@@ -32,5 +32,5 @@ I'm **"just a 🍵"** - from **🌎 616**. I'm a low-minded developer **٩◔̯�
 - Learning Typescript, Flutter/Dart
 - Practice more on AI area
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JonasKahn616&" alt="JonasKahn616" /></p>
- 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JonasKahn616&theme=ayu-light&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
