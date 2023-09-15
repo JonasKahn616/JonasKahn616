@@ -33,4 +33,4 @@ I'm **"just a 🍵"** - from **🌎 616**. I'm a low-minded developer **٩◔̯�
 - Practice more on AI area
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonaskahn&theme=ayu-light&hide_border=true&exclude_days=Sun%2CSat)](https://github.com/jonaskahn)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonaskahn&theme=ayu-light&hide_border=true)](https://github.com/jonaskahn)
