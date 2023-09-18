@@ -7,13 +7,13 @@ I'm **"just a 🍵"** - from **🌎 616**. I'm a low-minded developer **٩◔̯�
 ## Tech stacks
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=java,kotlin,spring,php,laravel,golang,python,fastapi&theme=light)](https://github.com/JonasKahn616)
+[![Backend](https://skillicons.dev/icons?i=java,kotlin,spring,php,laravel,golang,python,fastapi&theme=light)](https://github.com/jonaskahn)
 ---
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vue,nuxt,dart,flutter&theme=light)](https://github.com/JonasKahn616)
+[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vue,nuxt,dart,flutter&theme=light)](https://github.com/jonaskahn)
 ---
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=linux,maven,jenkins,vite,webpack,gitlab,docker,vscode&theme=light)](https://github.com/JonasKahn616)
+[![Tools](https://skillicons.dev/icons?i=linux,maven,jenkins,vite,webpack,gitlab,docker,vscode&theme=light)](https://github.com/jonaskahn)
 
 ---
 
