@@ -20,10 +20,10 @@ I'm **"just a 🍵"** - from **🌎 616**. I'm a low-minded developer **٩◔̯�
  - **🛫 Java/Kotlin** | _Spring Framework Stacks_
  - **🗻 Php** | _Laravel/Lumen_
  - **🔥 Golang** | _Gin/BeeGo/Fiber/Hyperledger Fabric_
- - **🔦 Python** | _FastAPI/Locust/Deep Learning/Machine Learing/AI_
+ - **🔦 Python** | _FastAPI/Sanic/Focus/Deep Learning/Machine Learing/AI_
  - **🔆 Html/Css/Javascript**
  - **🔶 NodeJs/Vue/NuxtJs**
- - **🔨 Maven/Ant | NPM | Composer | Anaconda/VirtualEnv**
+ - **🔨 Maven/Ant | NPM | Composer | Anaconda/VirtualEnv/Poetry**
  - **🧩 Jenkins/GitlabCI/Docker/HashiCorpStack (Nomad/Consul/Vault)**
 
 ---
