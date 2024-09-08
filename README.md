@@ -30,5 +30,3 @@ I'm **"just a 🍵"** - from **🌎 616**. I'm a low-minded developer **٩◔̯�
 ### Doing/Learning
 
 - Practice more on AI area
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskahn&layout=pie&hide=css,scss)](https://github.com/jonaskahn)
