@@ -30,3 +30,5 @@ I'm **"just a 🍵"** - from **🌎 616**. I'm a low-minded developer **٩◔̯�
 ### Doing/Learning
 
 - Practice more on AI area
+
+![](https://komarev.com/ghpvc/?username=jonaskahn&color=green)
