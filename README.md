@@ -32,3 +32,5 @@ I'm **"just a 🍵"** - from **🌎 616**. I'm a low-minded developer **٩◔̯�
 - Practice more on AI area
 
 ![](https://komarev.com/ghpvc/?username=jonaskahn&color=green)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/therealtuyen)
